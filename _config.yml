@@ -1,0 +1,53 @@
+baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
+url: "username.github.io" # the base hostname & protocol for your site.
+
+paginate: 6 #articles per page
+paginate_path: /blog/page:num #makes pagination working
+
+# header text
+title: The Community Knowledge Lab
+header: The Community Knowledge Lab trains DSL members in digital skills, supports research initiatives, and runs incubators where members learn methods and theories for centering community/indigenous knowledge practices.
+
+# for welcome page
+# to replace image go to index.html
+email:
+  address: "admin@ckl.dslprojects.org"
+  text: "admin (at) ckl.dslprojects.org"
+
+# disqus comment
+disqus:
+    shortname: "test" #your disqus comment short name
+
+# google analytics
+google:
+    tracking-id: "" #your tracking id here
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+# This is used by feed.xml. Uncomment if you want to use it.
+# description: "..."
+
+exclude:
+  - "README.md"
+  - "CHANGELOG.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+
+permalink: /posts/:title
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

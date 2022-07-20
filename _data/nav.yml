@@ -1,0 +1,10 @@
+# nav items in header
+items:
+  - text: 'About'
+    path: '/about'
+  - text: 'Labs'
+    path: '/labs'
+  - text: 'Docs'
+    path: '/docs'
+  - text: 'Archive'
+    path: '/archive'
