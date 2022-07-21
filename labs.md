@@ -12,9 +12,8 @@ permalink: /labs/
 
 *...explores Black geographies of fugitivity using sources like runaway ads and tools like ArcGIS/StoryMaps and Twine to experiment with models of turning surveillance practices inside out. As part of that experimentation, this microlab will produce a StoryMap for public use that describes best practices for using ArcGIS/spatial analysis for uncovering Black geographies.*
 
-<img src="http://ckl.dslprojects.org/%23repost%20@pierre_artista.png" alt="Trulli" style="width:100%">
+<img src="http://ckl.dslprojects.org/%23repost%20@pierre_artista.png">
   <figcaption><a href="https://www.instagram.com/pierretheartist/">Image Credit: Pierre Artista</a></figcaption>
-</figure>
 
 
 ![Image Credit: Pierre Artista](http://ckl.dslprojects.org/%23repost%20@pierre_artista.png)
