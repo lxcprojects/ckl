@@ -11,6 +11,8 @@ permalink: /docs/
 
 [The CKL on Github](https://github.com/lxcprojects/ckldocs)
 
+[The DSL Archipelago](https://padlet.com/dslprojects/archipelago)
 
+[DSL website](dslprojects.org)
 
-*coming soon*
+....more *coming soon*
