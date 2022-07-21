@@ -10,3 +10,4 @@ The Diaspora Solidarities Lab is a multi-institutional Black feminist partnershi
 
 [Learn more](http://dslprojects.org)
 
+<a href="http://dslprojects.org"><img src="http://ckl.dslprojects.org/DSL_Logo_tangerine.png" width="196" height="196"></a>
