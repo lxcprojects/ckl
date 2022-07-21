@@ -26,8 +26,6 @@ permalink: /labs/
   <figcaption>Image Credit: Studio Be 2019</figcaption>
 
 
-![Image Credit: Studio Be 2019](http://ckl.dslprojects.org/img/20190112_153807.jpg)
-
 ***
 
 
@@ -36,9 +34,8 @@ permalink: /labs/
 *...explores best practices around doing Black Puerto Rican digital history. Led by Afro-Puerto Rican scholar Dr. Sarah Bruno with support from Afro-Puerto Rican scholar Jessica Marie Johnson, members will learn to use Omeka, Wax and Jekyll and learn how initiatives like Minimal Computing are bringing research relating to the histories of slavery and Indigenous genocide into the public sphere. This microlab will produce a methodology paper on best practices for Black Puerto Rican-centered decolonial and diasporic digital publishing for submission to the #minicomp document corpus (available here: https://go-dh.github.io/mincomp/thoughts/)**
 
 <img src="http://ckl.dslprojects.org/Mariano%20Negro%cc%81n%20Portillo%20and%20Rau%cc%81l%20Mayo%20Santana%20LA%20ESCLAVITUD%20URBANA%20EN%20SAN%20JUAN%20(Ediciones%20Huraca%cc%81n)%20and%20LAS%20NEGRAS%20by%20Yolanda%20Arroyo%20Pizarro%20%23adphdbooks.png">
-  <figcaption>Image Credit: Books via #adphdbooks</figcaption>
+  <figcaption>Image Credit: <a href="http://instagram.com/adphdbooks"">#adphdbooks</a></figcaption>
 
-<img src="http://ckl.dslprojects.org/Mariano%20Negro%cc%81n%20Portillo%20and%20Rau%cc%81l%20Mayo%20Santana%20LA%20ESCLAVITUD%20URBANA%20EN%20SAN%20JUAN%20(Ediciones%20Huraca%cc%81n)%20and%20LAS%20NEGRAS%20by%20Yolanda%20Arroyo%20Pizarro%20%23adphdbooks.png" alt="Girl in a jacket" width="75%" height="75%" class="center">
 
 ***
 
@@ -49,7 +46,6 @@ permalink: /labs/
 <img src="http://ckl.dslprojects.org/douglas-ribeiro-dKQj-ubCKhA-unsplash.jpg">
   <figcaption>Image Credit: Douglas Ribeiro</figcaption>
 
-![Image Credit: Douglas Ribeiro](http://ckl.dslprojects.org/douglas-ribeiro-dKQj-ubCKhA-unsplash.jpg)
 
 
 ***
@@ -60,7 +56,6 @@ permalink: /labs/
 *...(dir. Tao Leigh Goffe) focuses on plantation foodways and integrated with the Sites of Rememory DSL Summer micro-labs in Puerto Rico, Dominica, and New Orleans. In partnership with the Smithsonian affiliate the Museum of African Diaspora (MoAD) in San Francisco and the Museum of Contemporary African Diasporan Arts (MoCADA) in New York, co-creators will explore the kitchen as a site of resistance and cross-racial co-production. This incubator forms an intellectual community for DSL members interested in what Goffe describes as the “gastropoetics of Afro-Asia after the plantation.”   Cooking demonstrations, co-sponsored with cultural heritage museums, and other recorded events will form an open-access video archive on the DSL website. [Read more](https://thefunambulist.net/magazine/politics-of-food/kitchen-marronage-a-genealogy-of-jerk-tao-leigh-goffe)**
 
 <img src="https://thefunambulist.net/app/uploads/fly-images/1077846/Leigh-Goffe-Funambulist-900x893.jpg">
-  <figcaption>Image Credit: Pimiento Tree by Romil Chouhan</figcaption>
+  <figcaption><a href="https://thefunambulist.net/app/uploads/fly-images/1077846/Leigh-Goffe-Funambulist-900x893.jpg">Image Credit: Pimiento Tree by Romil Chouhan</a></figcaption>
 
-![Image Credit: Pimiento Tree by Romil Chouhan](https://thefunambulist.net/app/uploads/fly-images/1077846/Leigh-Goffe-Funambulist-900x893.jpg)
 
