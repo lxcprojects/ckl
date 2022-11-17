@@ -51,11 +51,4 @@ permalink: /labs/
 ***
 
 
-## Kitchen Marronage
-
-*...(dir. Tao Leigh Goffe) focuses on plantation foodways and integrated with the Sites of Rememory DSL Summer micro-labs in Puerto Rico, Dominica, and New Orleans. In partnership with the Smithsonian affiliate the Museum of African Diaspora (MoAD) in San Francisco and the Museum of Contemporary African Diasporan Arts (MoCADA) in New York, co-creators will explore the kitchen as a site of resistance and cross-racial co-production. This incubator forms an intellectual community for DSL members interested in what Goffe describes as the “gastropoetics of Afro-Asia after the plantation.”   Cooking demonstrations, co-sponsored with cultural heritage museums, and other recorded events will form an open-access video archive on the DSL website. [Read more](https://thefunambulist.net/magazine/politics-of-food/kitchen-marronage-a-genealogy-of-jerk-tao-leigh-goffe)**
-
-<img src="https://thefunambulist.net/app/uploads/fly-images/1077846/Leigh-Goffe-Funambulist-900x893.jpg">
-  <figcaption><a href="https://thefunambulist.net/app/uploads/fly-images/1077846/Leigh-Goffe-Funambulist-900x893.jpg">Image Credit: Pimiento Tree by Romil Chouhan</a></figcaption>
-
 
